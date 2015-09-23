@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d2176a43-a048-4687-b0fe-74b2ee06a754" name="Local" url="http://admin-local.ordercontrol.com/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

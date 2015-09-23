@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="15">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="pio" type="PLAIN_TEXT" />
+      <mapping pattern="hubot" type="PLAIN_TEXT" />
+      <mapping pattern="bin/hubot" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".sterlingrc" type="PLAIN_TEXT" />
+      <mapping ext="delete" type="PLAIN_TEXT" />
+      <mapping pattern=".cocomoignore" type="Gitignore file" />
+    </extensionMap>
+  </component>
+</application>
